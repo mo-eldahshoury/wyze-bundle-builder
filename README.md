@@ -20,16 +20,15 @@ A multi-step React application for assembling customized security systems, featu
 - **Review Panel Logic:** Instead of simple static rendering, I implemented a `buildReviewData` helper that filters and categorizes cart items based on the active step, ensuring the panel accumulates data as the user progresses.
 - **Variant Handling:** Each product variant is treated as a unique key in the cart state (`productId-variantId`), allowing for precise quantity tracking as requested.
 
-## Setup Instructions
-1. Clone the repository:
-```bash
-   git clone [https://github.com/mo-eldahshoury/wyze-bundle-builder.git](https://github.com/mo-eldahshoury/wyze-bundle-builder.git)
-
-
-
-
 
 ## Live Demo
 You can view the live application here: [https://wyze-bundle-builder.vercel.app/](https://wyze-bundle-builder.vercel.app/)
 
+
+
+
+## Setup Instructions
+1. Clone the repository:
+```bash
+   git clone [https://github.com/mo-eldahshoury/wyze-bundle-builder.git](https://github.com/mo-eldahshoury/wyze-bundle-builder.git)
 
