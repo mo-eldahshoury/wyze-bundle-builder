@@ -25,4 +25,7 @@ A multi-step React application for assembling customized security systems, featu
 ```bash
    git clone [https://github.com/mo-eldahshoury/wyze-bundle-builder.git](https://github.com/mo-eldahshoury/wyze-bundle-builder.git)
 
+## Live Demo
+You can view the live application here: [https://wyze-bundle-builder.vercel.app/](https://wyze-bundle-builder.vercel.app/)
+
 
