@@ -1,4 +1,4 @@
-# Wyze Bundle Builder 
+# Wyze Bundle Builder
 
 A multi-step React application for assembling customized security systems, featuring a real-time reactive review panel and client-side persistence.
 
